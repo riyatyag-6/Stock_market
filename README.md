@@ -25,7 +25,3 @@ This project aims to predict **Amazon stock prices** using historical financial 
 ## Conclusion
 This project demonstrates the effective use of **Linear Regression** in predicting Amazon stock prices by leveraging market indicators. Future enhancements could include using advanced models like **Random Forest** or **XGBoost** to capture more complex patterns.
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/amazon-stock-price-prediction.git
